@@ -1,111 +1,166 @@
-<h1 align="center">Salut, moi c'est Syrine 👋</h1>
-<h3 align="center">Ingénieure IA | LLMs · RAG · Systèmes Multi-Agents · IA Générative</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Building+GenAI+pipelines+for+Finance+%26+Compliance;LLMs+%7C+RAG+%7C+Multi-Agent+Systems;95%25+accuracy+%7C+-75%25+processing+time" alt="Typing SVG" />
-</p>
+# 👋 Salut, moi c'est Syrine Maalel
 
----
+### 🧠 Ingénieure IA | GenAI · LLMs · RAG · Agentic AI
 
-### 🚀 À propos de moi
+*Je transforme des données complexes en décisions automatisées, fiables et exploitables.*
 
-- 🔭 Actuellement en **Ingénierie IA** à ESPRIT (2024 – présent)
-- 🧠 Spécialisée en **LLMs, RAG et systèmes multi-agents** appliqués à l'automatisation financière et de conformité
-- 💼 J'ai conçu des pipelines IA ayant atteint **95% de précision** et réduit le temps de traitement documentaire de **75%** (12s → 3s)
-- 🏆 **1ère place** sur 120 équipes — Mediterranean AI Forum Hackathon (GoMyCode x InstaDeep)
-- 🌱 En apprentissage continu : systèmes multi-agents avancés, IA générative, computer vision
-- 💬 Demandez-moi : LLMs, RAG, CrewAI, prompt engineering, NLP, Deep Learning
-- 📫 Comment me contacter : **syrine.maalel@esprit.tn** | [LinkedIn](https://www.linkedin.com/in/syrine-maalel-04058629b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syrine%20Maalel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syrine-maalel-04058629b/en)
+[![Email](https://img.shields.io/badge/Email-syrine.maalel%40esprit.tn-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syrine.maalel@esprit.tn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Voir%20mes%20projets-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ton-portfolio-ici.com)
+
+</div>
 
 ---
 
-### 🛠️ Stack technique
+## 🧭 À propos
 
-**IA & NLP**
-![LLMs](https://img.shields.io/badge/-LLMs-2EA3F7?style=flat-square)
-![RAG](https://img.shields.io/badge/-RAG-2EA3F7?style=flat-square)
-![Multi--Agent Systems](https://img.shields.io/badge/-Multi--Agent%20Systems-2EA3F7?style=flat-square)
-![NLP](https://img.shields.io/badge/-NLP-2EA3F7?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-2EA3F7?style=flat-square)
+Ingénieure IA spécialisée en **GenAI, LLMs, RAG et Agentic AI**, je conçois des pipelines d'automatisation qui transforment des documents et données complexes en insights exploitables — tous secteurs confondus.
 
-**Frameworks & Outils IA**
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/-CrewAI-FF6B35?style=flat-square)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-**Développement**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Data & BI**
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+- 🔭 Actuellement en 2ème année d'ingénierie en Intelligence Artificielle à l'**ESPRIT**
+- 🧩 Spécialisée en architectures **multi-agents** (CrewAI, Agno) et orchestration LLM
+- 🌍 Ouverte à des opportunités de stage PFE (6 mois) — **Tunisie et international**
+- 🥇 1ère place sur 120 équipes — *Mediterranean AI Forum Hackathon*
+- 💬 Toujours partante pour discuter GenAI, RAG et systèmes multi-agents
 
 ---
 
-### 📌 Projets phares
+## 🛠️ Stack Technique
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-**🐟 BlueMind — IA pour la Pêche Durable**
-Plateforme IA (WWF Tunisie) : détection d'espèces, fraîcheur, chatbot multilingue, monitoring pollution marine.
+**IA & Machine Learning**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge&logoColor=white)
+![Scikit_Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+**Développement & Data**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+</div>
+
+---
+
+## 🚀 Projets phares
+
+### 🤖 Pipeline Multi-Agent — Automatisation de l'Analyse Financière
+**INETUM** · *Juil. 2025 – Août 2025*
+> Pipeline end-to-end basé sur CrewAI/Agno automatisant l'analyse de rapports financiers — du scraping des documents jusqu'à la génération des KPIs par LLM.
+- ⚡ Temps d'analyse réduit de **plusieurs heures à moins de 3 minutes**
+- 🎯 Taux de succès supérieur à **95%**
+- 💾 Consommation mémoire réduite de **75%** (8 Go → 2 Go) via chunking adaptatif
+
+`CrewAI` `Agno` `Python` `LLM Orchestration`
+
+---
+
+### 📄 Automatisation de la Conformité
+**Partenariat ODDO BHF Asset Management** · *Sept. 2025 – Jan. 2026*
+> Pipelines LLM parallélisés pour extraire métadonnées, claims et données financières de documents de conformité, avec module de validation human-in-the-loop.
+- 🎯 **95%** de précision d'extraction
+- ⚡ Traitement réduit de **12 à 3 secondes** par document
+
+`ThreadPoolExecutor` `Pydantic` `LLM`
+
+---
+
+### 🐟 Surveillance de la Faune en Temps Réel
+**Partenariat WWF** · *Fév. 2024 – Mai 2025*
+> Plateforme IA multi-modèles pour l'identification d'espèces de poissons, l'évaluation de leur état de santé et l'optimisation des sorties de pêche.
+- 🎯 **92%** de précision (YOLO, Faster R-CNN)
+- 🐠 **95%** de précision sur la classification toxique/comestible (CNN, MobileNet)
+- 🌊 Intégration météo marine + algorithme A* pour l'optimisation de trajet
+
 `YOLO` `Faster R-CNN` `CNN` `MobileNet`
 
-</td>
-<td width="50%">
+---
 
-**📊 Automatisation de la Conformité — ODDO BHF**
-Pipelines LLM parallélisés pour extraction de métadonnées et validation réglementaire. 95% de précision.
-`LLMs` `Pydantic` `ThreadPoolExecutor`
+### 💬 Classification NLP en Dialecte Tunisien
+**Tunisie Telecom** · *Fév. 2024 – Avr. 2024*
+> Solution NLP pour classifier sentiments et réclamations clients en dialecte tunisien — langue à faibles ressources.
+- 🔬 Comparaison ML/DL : Decision Tree, Random Forest, SVM, XGBoost, LSTM, BiLSTM, BERT
+- 🌐 Application Flask end-to-end (temps réel + traitement batch)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**💹 Pipeline Multi-Agent — Analyse Financière**
-Automatisation de l'analyse de rapports financiers avec CrewAI/Agno, calcul de 12 KPIs.
-`CrewAI` `Agno` `Multi-Agent`
-
-</td>
-<td width="50%">
-
-**🌍 Air Quality Data Engineering & ML**
-Pipeline data complet + dashboard Power BI pour la prédiction de risques liés à la pollution.
-`SSIS` `Django` `Scikit-learn`
-
-</td>
-</tr>
-</table>
+`NLP` `BERT` `Flask` `Low-Resource Languages`
 
 ---
 
-### 📊 Statistiques GitHub
+## 🎓 Formation
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_USERNAME&hide_border=true" />
-</p>
+| Établissement | Diplôme | Période |
+|---|---|---|
+| **ESPRIT** — École Privée Supérieure d'Ingénierie et de Technologie | Ingénieure en Intelligence Artificielle | 2024 – présent |
+| **ESEN** — École Supérieure de l'Économie Numérique | Licence en Business Intelligence — *Mention Bien* | 2021 – 2024 |
 
 ---
 
-### 🎓 Certifications
+## 📜 Certifications
 
-- Multi AI Agent Systems with crewAI — DeepLearning.AI
-- Building Transformer-Based NLP Applications — NVIDIA
-- Building AI Agents with Multimodal Models — NVIDIA
-- Generative AI with Diffusion Models — NVIDIA
-- Reinforcement Learning — ESPRIT
+<details>
+<summary><b>🟩 NVIDIA</b></summary>
+<br>
+
+- Fundamentals of Deep Learning
+- Building Transformer-Based NLP Applications
+- Building AI Agents with Multimodal Models
+- Generative AI with Diffusion Models
+
+</details>
+
+<details>
+<summary><b>🟪 DeepLearning.AI</b></summary>
+<br>
+
+- Multi AI Agent Systems with CrewAI
+
+</details>
+
+<details>
+<summary><b>🟦 365 Data Science</b></summary>
+<br>
+
+- Power BI
+- Data Cleaning & Preprocessing with Pandas
+
+</details>
+
+<details>
+<summary><b>⬛ ESPRIT</b></summary>
+<br>
+
+- Reinforcement Learning
+
+</details>
 
 ---
 
-<p align="center">
-  <i>Ouverte aux opportunités en IA Générative / LLM Engineering — Tunisie & international</i>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- ⚠️ Remplace TON-USERNAME-GITHUB par ton vrai nom d'utilisateur GitHub -->
+<img src="https://github-readme-stats.vercel.app/api?username=TON-USERNAME-GITHUB&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TON-USERNAME-GITHUB&hide_border=true" alt="GitHub Streak" width="48%"/>
+
+</div>
+
+---
+
+## 🌱 Objectif
+
+> Ouverte à des opportunités de stage PFE de 6 mois — **AI Engineering / GenAI / Agentic AI** — en Tunisie comme à l'international, sur des projets combinant IA générative et impact métier concret.
+
+<div align="center">
+
+**📫 Contactez-moi : [syrine.maalel@esprit.tn](mailto:syrine.maalel@esprit.tn) · [LinkedIn](https://www.linkedin.com/in/syrine-maalel-04058629b/en)**
+
+</div>
