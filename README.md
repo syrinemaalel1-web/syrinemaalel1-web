@@ -2,7 +2,7 @@
 
 # 👋 Salut, moi c'est Syrine Maalel
 
-### 🧠 Ingénieure IA | GenAI · LLMs · RAG · Agentic AI
+### 🧠 Élève Ingénieure en Intelligence Artificielle | GenAI · LLMs · RAG · Agentic AI
 
 *Je transforme des données complexes en décisions automatisées, fiables et exploitables.*
 
